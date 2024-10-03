@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gerenciador de Contatos</string>
+    <string name="name_hint">Nome</string>
+    <string name="phone_hint">Telefone</string>
+    <string name="email_hint">Email</string>
+    <string name="contact_type">Tipo de Contato</string>
+    <string name="submit">Enviar</string>
+    <string name="contact_image">Adicionar imagem de contato</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+</resources>
